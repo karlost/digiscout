@@ -33,6 +33,9 @@ DigiScout is a comprehensive website monitoring application built with Laravel a
 
 - **Implemented**: Notification counter in the admin navbar
 - **Implemented**: Enhanced bulk actions for notification management (multiple select, filter, etc.)
+- **Need to implement**: REST API for integration with external systems
+- **Need to implement**: User roles and permissions system
+- **Need to implement**: More detailed analytics tools
 - **Need to implement**: WebSocket integration for real-time notifications
 - **Need to implement**: Custom notification rules with advanced filtering
 - **Need to implement**: Mobile application for on-the-go monitoring 
