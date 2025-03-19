@@ -54,6 +54,17 @@ The problem was resolved through:
 
 A temporary fix was also applied by adding a default value of 10 to the interval column in the database.
 
+## Development Stats
+
+This project was developed 100% using Claude Code, an AI pair programming assistant.
+
+```
+Total cost:            $29.39
+Total duration (API):  1h 35m 10.1s
+Total duration (wall): 4h 25m 51.0s
+Total code changes:    9198 lines added, 1526 lines removed
+```
+
 ## Installation
 
 1. Clone the repository
